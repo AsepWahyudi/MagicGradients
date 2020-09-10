@@ -1,9 +1,10 @@
-﻿using MagicGradients;
+using MagicGradients;
 using Playground.ViewModels;
 using PlaygroundLite.Services;
 using System.Linq;
 using System.Windows.Input;
 using Xamarin.Forms;
+using GradientStop = MagicGradients.GradientStop;
 
 namespace PlaygroundLite.ViewModels
 {
